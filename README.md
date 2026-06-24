@@ -20,7 +20,9 @@
 
 ###
 
-<img data-importer="image" align="left" height="150" src="https://r2.e-z.host/a466cf7c-0034-4d68-80d8-1c7ad54cf3c3/80efco3a.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://r2.e-z.host/a466cf7c-0034-4d68-80d8-1c7ad54cf3c3/80efco3a.gif"  />
+</div>
 
 ###
 
